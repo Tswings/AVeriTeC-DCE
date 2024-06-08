@@ -19,7 +19,7 @@ web article of the claim) available for claim extraction and corresponding text 
     ```bash
     python 2_context_generation.py 
     ```
-* Step 3. decontextualises candidate central sentences with generated qa pairs. (Download the decontextualsation model from <a href="https://github.com/google-research/language/tree/master/language/decontext">here</a>):)
+* Step 3. decontextualises candidate central sentences with generated qa pairs. (download the decontextualsation model from <a href="https://github.com/google-research/language/tree/master/language/decontext">here</a>)
     ```bash
     python 3_decontextualisation.py 
     ``` 
