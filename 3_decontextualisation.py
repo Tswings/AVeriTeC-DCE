@@ -218,7 +218,7 @@ def main():
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(samples, f, ensure_ascii=False)
     else:
-        print("reranked decontextualised sentences have finished.")
+        print("reranked decontextualised sentences were saved in {}.".format(output_path))
 
 
 
