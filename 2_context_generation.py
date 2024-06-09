@@ -500,7 +500,7 @@ def main():
 
     # ---------------------------------------------------------------------------
     # step 2: extracts candidate central sentences from text data
-    ranked_sentence_file = "{}/2_sent_ranked_by_bertsum1.json".format(data_path)
+    ranked_sentence_file = "{}/2_sent_ranked_by_bertsum.json".format(data_path)
     if not os.path.exists(ranked_sentence_file):
         ranked_samples = sentence_ranking_by_BertSum(all_avail_url_files)
         # save
