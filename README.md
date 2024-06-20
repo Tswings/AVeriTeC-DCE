@@ -1,5 +1,5 @@
 # Document-level Claim Extraction and Decontextualisation for Fact-Checking
-A code implementation of this paper "Document-level Claim Extraction and Decontextualisation for Fact-Checking" (<a href="https://arxiv.org/pdf/2406.03239">ACL 2024</a>). 
+A code implementation of this paper "Document-level Claim Extraction and Decontextualisation for Fact-Checking" (<a href="https://arxiv.org/pdf/2406.03239">ACL main conference 2024</a>). 
 
 
 ## Data
